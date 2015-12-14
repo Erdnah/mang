@@ -1,3 +1,3 @@
 mang
 ====
-Sitaks kõva mäng.
+kõva mäng.
